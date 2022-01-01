@@ -1,5 +1,5 @@
 /*
-cloned version
+cloned version of the List.cpp file
 */
 #include "StdAfx.h"
 #include <iostream>
