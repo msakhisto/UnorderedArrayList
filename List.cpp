@@ -1,6 +1,8 @@
 /*
 cloned version of the List.cpp file
 */
+
+//using the GUI interface
 #include "StdAfx.h"
 #include <iostream>
 #include "List.h"
