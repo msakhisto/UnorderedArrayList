@@ -1,4 +1,7 @@
 #pragma once
+/*
+cloned version
+*/
 
 const int MaxSize = 15;
 typedef  int DataType;
